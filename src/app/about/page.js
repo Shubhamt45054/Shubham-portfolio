@@ -15,7 +15,7 @@ export default function About() {
             With a keen eye for detail and a commitment to writing clean, efficient code ✨, I strive to create scalable solutions that deliver exceptional user experiences. I am constantly learning and exploring new technologies to stay at the forefront of web development 🌟.
           </p>
           <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
-            When I'm not coding, you can find me participating in competitive programming contests 🏆, contributing to open-source projects 🌐, or exploring new tech trends 📱. I believe in the power of technology to solve real-world problems and am always excited to take on new challenges 🎯.
+            When I&apos;m not coding, you can find me participating in competitive programming contests 🏆, contributing to open-source projects 🌐, or exploring new tech trends 📱. I believe in the power of technology to solve real-world problems and am always excited to take on new challenges 🎯.
           </p>
         </div>
 
@@ -68,7 +68,7 @@ export default function About() {
             <h2 className="text-2xl font-bold mb-4 bg-gradient-to-r from-blue-500 to-purple-500 text-transparent bg-clip-text">Achievements</h2>
             <div className="bg-gray-50 dark:bg-gray-700/50 rounded-xl p-6 hover:shadow-lg transition-all duration-300">
               <ul className="space-y-3 text-gray-600 dark:text-gray-400">
-                <li>🏆 Qualified for ICPC'24 Regionals out of 2835 participating teams.</li>
+                <li>�� Qualified for ICPC&apos;24 Regionals out of 2835 participating teams.</li>
                 <li>⭐ Ranked in the Top 2.25% globally on LeetCode (Max Rating: 2047).</li>
                 <li>🌟 Achieved Expert rating on Codeforces (Max Rating: 1659).</li>
                 <li>🎯 Secured Global Rank 5 in CodeChef (Max Rating: 1988).</li>

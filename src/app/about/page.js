@@ -9,7 +9,7 @@ export default function About() {
             About Me 👋
           </h2>
           <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
-            I am a passionate Full Stack Developer 🚀 and Competitive Programmer 💻 with a strong foundation in web technologies and problem-solving. My journey in software development has equipped me with expertise in building modern web applications and solving complex algorithmic challenges.
+            I&apos;m a passionate Full Stack Developer 🚀 and Competitive Programmer 💻 with a strong foundation in web technologies and problem-solving. My journey in software development has equipped me with expertise in building modern web applications and solving complex algorithmic challenges.
           </p>
           <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
             With a keen eye for detail and a commitment to writing clean, efficient code ✨, I strive to create scalable solutions that deliver exceptional user experiences. I am constantly learning and exploring new technologies to stay at the forefront of web development 🌟.

@@ -49,7 +49,7 @@ export default function Home() {
 
         <div className="text-center md:text-left max-w-2xl bg-white dark:bg-gray-800 rounded-3xl p-10 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-gray-100 dark:border-gray-700 backdrop-blur-sm">
           <h1 className="text-4xl font-bold mb-4">
-            Hi, I'm <span className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-transparent bg-clip-text">Shubham Tyagi</span>
+            Hi, I&apos;m <span className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-transparent bg-clip-text">Shubham Tyagi</span>
           </h1>
           <p className="text-xl text-gray-600 dark:text-gray-300 mb-6">
             Full Stack Developer & Competitive Programmer<br/>

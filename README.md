@@ -80,24 +80,3 @@ my-portfolio/
 2. **Projects**: Add your projects in `src/app/projects/page.js`
 3. **Styling**: Modify colors and styles in `src/app/globals.css`
 4. **Images**: Replace images in the `public` folder
-
-## 🔗 Links
-
-- **Portfolio**: [Live Demo](https://shubhamt45054.github.io/Shubham-portfolio/)
-- **LinkedIn**: [Shubham Tyagi](https://www.linkedin.com/in/shubham-tyagi-860542264/)
-- **GitHub**: [Shubhamt45054](https://github.com/Shubhamt45054)
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contact
-
-Feel free to reach out to me:
-- **Email**: [Your Email]
-- **LinkedIn**: [Shubham Tyagi](https://www.linkedin.com/in/shubham-tyagi-860542264/)
-- **GitHub**: [Shubhamt45054](https://github.com/Shubhamt45054)
-
----
-
-⭐️ From [Shubham Tyagi](https://github.com/Shubhamt45054)
